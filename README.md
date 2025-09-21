@@ -2,7 +2,7 @@
 
 # Project: Number-Guesser-3000-Ultra
 
-This is a simple program that prompts the user to enter a number and prints its value. It currently handles numbers from 0 up to 10,000.
+This is a simple program that prompts the user to enter a number and prints its value.
 
 ## Features
 
