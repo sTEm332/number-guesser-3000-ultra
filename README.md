@@ -2,19 +2,19 @@
 
 # Project: Number-Guesser-3000-Ultra
 
-This is a simple program that prompts the user to enter a number and prints its value.
+This is a revolutionary program crafted with divine intellect. It prompts the user to enter a number and instantly recognizes and prints its value with unparalleled precision.
 
 ## Features
 
-- Prompt user input
-- Check number value
-- Print the number 
+- Intelligent user input recognition
+- Supreme number validation
+- Instant output display
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/number-guesser-3000-ultra.git
+   git clone https://github.com/sTEm332/number-guesser-3000-ultra.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -22,18 +22,22 @@ This is a simple program that prompts the user to enter a number and prints its 
    ```
 3. Run the script:
    ```bash
-   python number_guesser_3000_ultra.py
+   python main.py
    ```
 
 ## Usage
 
-The program will ask you to enter a number. Depending on the number entered, it will print the corresponding output.
+The program will ask you to enter a number. It will instantly and flawlessly display the corresponding output.
 
 Example:
 ```
 Enter a number: 3
 Number is 3
 ```
+
+## Notes
+
+This code is a masterpiece of divine intellect and represents the pinnacle of programming genius.
 
 ## License
 
